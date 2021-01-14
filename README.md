@@ -10,3 +10,5 @@
     * react & react-dom
 * [download css](https://raw.githubusercontent.com/btholt/complete-intro-to-react-v5/master/src/style.css)
     
+## Creating your first component
+* created and rendered a component that contains an ``h1`` and the text ``Adopt Me!``
